@@ -32,7 +32,7 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 ## User Roles & Functionalities
 
 ### **LOGIN PAGE**
-![Login Page]<img src="images/Screenshot%202025-03-14%20161608.png" width="500" />
+<img src="images/Screenshot%202025-03-14%20161608.png" width="400" />
 
 ### 👨‍💻 **Developer**
 - **View Bugs**: See all assigned bugs.
@@ -40,8 +40,8 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 - **Join Chat Room**: Communicate with testers and other developers.
 - **Search**: Find relevant bugs based on various criteria.
 - **Log Out**: Exit the system.
-(images/Screenshot 2025-03-14 161759.png)
-(images/Screenshot 2025-03-14 161814.png)
+(images/Screenshot%202025-03-14%20161759.png)
+(images/Screenshot%202025-03-14%20161814.png)
 
 ### 🕵️ **Tester**
 - **Add Bug**: Report new bugs to the system.
@@ -50,8 +50,8 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 - **View Developers**: Check which developer has been assigned to each bug.
 - **Host Chat Room**: Start a chat for discussion with developers and project managers.
 - **Log Out**: Exit the system.
-(images/Screenshot 2025-03-14 161839.png)
-(images/Screenshot 2025-03-14 161924.png)
+(images/Screenshot%202025-03-14%20161839.png)
+(images/Screenshot%202025-03-14%20161924.png)
 
 ### 🤵 **Project Manager**
 - **Monitor Bugs**: Track the status of all bugs.
@@ -59,22 +59,22 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 - **Monitor Developers**: Track developer performance, including the number of resolved bugs.
 - **Check Performance**: Analyze bug resolution efficiency and overall project progress.
 - **Log Out**: Exit the system.
-(images/Screenshot 2025-03-14 162002.png)
-(images/Screenshot 2025-03-14 162016.png)
-(images/Screenshot 2025-03-14 162028.png)
-(images/Screenshot 2025-03-14 162040.png)
+(images/Screenshot%202025-03-14%20162002.png)
+(images/Screenshot%202025-03-14%20162016.png)
+(images/Screenshot%202025-03-14%20162028.png)
+(images/Screenshot%202025-03-14%20162040.png)
 
 
 ### 🦸 **Admin**
 - **View Users**: Manage user accounts (view details of all users).
 - **Add User**: Create new user accounts (Admin, Developer, Tester, Project Manager).
-- (images/Screenshot 2025-03-14 161727.png)
+- (images/Screenshot%202025-03-14%20161727.png)
 - **Update User**: Modify user details (e.g., role, personal information).
 - **Delete User**: Remove users from the system.
 - **Sign Up**: Register new Admins for system access.
 - **Log Out**: Exit the system.
-(images/Screenshot 2025-03-14 161654.png)
-1[Audit Logs] (images/Screenshot 2025-03-14 161715.png)
+(images/Screenshot%202025-03-14%20161654.png)
+(images/Screenshot%202025-03-14%20161715.png)
 
 ---
 
