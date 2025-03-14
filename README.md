@@ -32,7 +32,7 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 ## User Roles & Functionalities
 
 ### **LOGIN PAGE**
-![Login Page](src/main/resources/Screenshot 2025-03-14 161608.png)
+![Login Page](images/Screenshot 2025-03-14 161608.png)
 
 ### 👨‍💻 **Developer**
 - **View Bugs**: See all assigned bugs.
