@@ -41,7 +41,7 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 - **Search**: Find relevant bugs based on various criteria.
 - **Log Out**: Exit the system.
 <img src="images/Screenshot%202025-03-14%20161759.png" width="400" />
-<img src="images/Screenshot%202025-03-14%20161814.png" width="400" />
+<img src="images/Screenshot%202025-03-14%20161814.png" width="400" height="200"/>
 
 ### 🕵️ **Tester**
 - **Add Bug**: Report new bugs to the system.
@@ -50,8 +50,9 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 - **View Developers**: Check which developer has been assigned to each bug.
 - **Host Chat Room**: Start a chat for discussion with developers and project managers.
 - **Log Out**: Exit the system.
-(images/Screenshot%202025-03-14%20161839.png)
-(images/Screenshot%202025-03-14%20161924.png)
+
+<img src="images/Screenshot%202025-03-14%20161839.png" width="400" />
+<img src="images/Screenshot%202025-03-14%20161924.png" width="400" />
 
 ### 🤵 **Project Manager**
 - **Monitor Bugs**: Track the status of all bugs.
@@ -59,22 +60,22 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 - **Monitor Developers**: Track developer performance, including the number of resolved bugs.
 - **Check Performance**: Analyze bug resolution efficiency and overall project progress.
 - **Log Out**: Exit the system.
-(images/Screenshot%202025-03-14%20162002.png)
-(images/Screenshot%202025-03-14%20162016.png)
-(images/Screenshot%202025-03-14%20162028.png)
-(images/Screenshot%202025-03-14%20162040.png)
+<img src="images/Screenshot%202025-03-14%20162002.png" width="400" />
+<img src="images/Screenshot%202025-03-14%20162016.png" width="400" />
+<img src="images/Screenshot%202025-03-14%20162028.png" width="400" />
+<img src="images/Screenshot%202025-03-14%20162040.png" width="400" />
 
 
 ### 🦸 **Admin**
 - **View Users**: Manage user accounts (view details of all users).
 - **Add User**: Create new user accounts (Admin, Developer, Tester, Project Manager).
-- (images/Screenshot%202025-03-14%20161727.png)
+<img src="images/Screenshot%202025-03-14%20161727.png" width="400" />
 - **Update User**: Modify user details (e.g., role, personal information).
 - **Delete User**: Remove users from the system.
 - **Sign Up**: Register new Admins for system access.
 - **Log Out**: Exit the system.
-(images/Screenshot%202025-03-14%20161654.png)
-(images/Screenshot%202025-03-14%20161715.png)
+<img src="images/Screenshot%202025-03-14%20161654.png" width="400" />
+<img src="images/Screenshot%202025-03-14%20161715.png" width="400" />
 
 ---
 
