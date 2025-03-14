@@ -40,8 +40,8 @@ The Bug Tracking System is a Java-based application designed to streamline bug r
 - **Join Chat Room**: Communicate with testers and other developers.
 - **Search**: Find relevant bugs based on various criteria.
 - **Log Out**: Exit the system.
-(images/Screenshot%202025-03-14%20161759.png)
-(images/Screenshot%202025-03-14%20161814.png)
+<img src="images/Screenshot%202025-03-14%20161759.png" width="400" />
+<img src="images/Screenshot%202025-03-14%20161814.png" width="400" />
 
 ### 🕵️ **Tester**
 - **Add Bug**: Report new bugs to the system.
